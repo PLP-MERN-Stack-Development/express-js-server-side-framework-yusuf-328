@@ -43,7 +43,7 @@ It demonstrates how to:
 Your .env file should include the following:
 
 
-PORT=5000
+PORT=3000
 MONGO_URI=mongodb://127.0.0.1:27017/week2_assignment
 API_KEY=mysecretkey
 
@@ -66,7 +66,7 @@ API_KEY=mysecretkey
 
 3. You should see:
    
-   Server running on port 5000
+   Server running on port 3000
    MongoDB Connected: 127.0.0.1
    
 
